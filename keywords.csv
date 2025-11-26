@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,2,0.5
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.45583337752847
-'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.4250003149999999
 'flooding protection',en,Adaptation,#9e32e5,#d641e8,2,0.4107653046177507
+'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.3710005827499999
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.2520558410645835
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1407796281358478
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1384977882341336
