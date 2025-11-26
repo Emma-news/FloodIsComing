@@ -21,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.0979205437178422
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0967025141598356
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0934373963022923
-'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0924831292474097
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.0847252066550177
+'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.08311338986029825
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0816806376020757
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0806158149704181
 'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.0678339027169016
