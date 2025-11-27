@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.3965152699901085
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,2,0.3188008553374999
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.2520558410645835
+'deluge',en,Hazard,#4287f5,#315fa8,3,0.14784245999901358
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1407796281358478
-'deluge',en,Hazard,#4287f5,#315fa8,3,0.1384977882341336
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.134166260820672
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1328633984830633
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.132214624294376
