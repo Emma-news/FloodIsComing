@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding protection',en,Adaptation,#9e32e5,#d641e8,2,0.3536553389250881
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,2,0.3188008553374999
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.2520558410645835
-'deluge',en,Hazard,#4287f5,#315fa8,3,0.1431293309991614
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1407796281358478
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.134166260820672
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1328633984830633
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.132214624294376
+'deluge',en,Hazard,#4287f5,#315fa8,3,0.12646710134928718
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1236217359308788
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1215508006237152
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1154121354254666
