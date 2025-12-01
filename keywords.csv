@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1147149241605242
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1132806342236174
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1062436519485234
-'flooding residents',en,Impacts,#a89216,#87830f,3,0.1047538149513388
-'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.10311226730936635
+'flooding residents',en,Impacts,#a89216,#87830f,3,0.10390043270863797
+'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.1031122673093663
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1007881640132615
 'flooding death',en,Impacts,#a89216,#87830f,3,0.1000567606221469
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.0979205437178422
