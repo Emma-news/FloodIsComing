@@ -26,8 +26,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0911060019617643
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.0847252066550177
 'floods',en,Hazard,#4287f5,#638ed4,3,0.0836161749376575
-'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0831133898602982
+'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.07454899138125347
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0644204632051126
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0372656419874714
-'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.03335323540356652
+'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0333532354035665
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0300677570325072
