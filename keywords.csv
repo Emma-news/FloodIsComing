@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.132214624294376
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.1251753627901675
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1236217359308788
-'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1132806342236174
+'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.11534359409007479
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1120662205364455
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1062436519485234
 'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.1031122673093663
