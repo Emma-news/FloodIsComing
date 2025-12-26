@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.2721954078018677
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1710799280943268
-'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.16910056427466819
+'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1691005642746681
 'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.159534053107694
 'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.1482933400163457
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1475363805469027
-'floods',en,Hazard,#4287f5,#638ed4,3,0.1383397266227529
 'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.1350055777912277
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1341081927882224
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1324414410948996
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.132214624294376
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1310996626778666
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1283345620821866
+'floods',en,Hazard,#4287f5,#638ed4,3,0.12666854172024905
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1251149484995813
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1236217359308788
 'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.1203376651310171
