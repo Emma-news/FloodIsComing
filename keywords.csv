@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,2,0.1323886970080653
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.132214624294376
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1310996626778666
-'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.13100313401389385
+'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.1310031340138938
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1283345620821866
 'floods',en,Hazard,#4287f5,#638ed4,3,0.126668541720249
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1251149484995813
@@ -22,10 +22,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1028471821220451
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.1015240471992292
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0999987483965879
-'flooding house',en,Impacts,#a89216,#a89216,3,0.0984994054350266
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.0979205437178422
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0947778847706724
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0937816171170601
+'flooding house',en,Impacts,#a89216,#a89216,3,0.0886829996197726
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0693783604775009
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0560966192904934
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0559575287243457
