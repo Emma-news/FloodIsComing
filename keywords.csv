@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1589025370310957
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1475363805469027
 'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.1408042451415398
-'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1341081927882224
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1324414410948996
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,2,0.1323886970080653
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.132214624294376
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1310996626778666
 'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.1310031340138938
+'flooding storm',en,Causes,#679e2c,#61b00c,3,0.12849770841544358
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1283345620821866
 'floods',en,Hazard,#4287f5,#638ed4,3,0.126668541720249
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1238417853209797
