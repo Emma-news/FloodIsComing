@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.2361808266315875
-'flooding residents',en,Impacts,#a89216,#87830f,3,0.2332003624516063
+'flooding residents',en,Impacts,#a89216,#87830f,3,0.2086354135384108
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1967106558248113
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1589025370310957
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1475363805469027
-'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.14080424514153989
+'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.1408042451415398
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1341081927882224
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1324414410948996
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,2,0.1323886970080653
