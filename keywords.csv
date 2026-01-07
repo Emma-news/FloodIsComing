@@ -17,10 +17,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1231142023168862
 'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.1226839383703088
 'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.1141399403613645
-'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1062436519485234
+'flooding buildings',en,Impacts,#a89216,#a89216,3,0.11181010415624487
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.1029661800369196
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.1015240471992292
-'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.09794633308832716
+'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0979463330883271
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0947778847706724
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0937816171170601
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.0936414776147113
