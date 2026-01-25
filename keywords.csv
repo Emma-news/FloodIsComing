@@ -18,12 +18,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1114975254396918
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.1029661800369196
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0951729359119777
-'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.0939389829834978
-'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.09181946347254803
+'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.091819463472548
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0886829996197726
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0872840382468107
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0868345077622803
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.085504623125078
+'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.08389932053597313
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.076951802851443
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0764728108670758
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0673432975790767
