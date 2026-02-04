@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1692921924309008
 'flooding donation',en,Mitigation,#9e3215,#802d16,2,0.1527088224110858
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1526044011764973
-'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1487063021657426
+'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1436335091136085
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1274496226763916
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1238417853209797
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1236217359308788
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.091819463472548
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0886829996197726
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0872840382468107
-'flooding health',en,Impacts,#a89216,#bfba22,3,0.08529785477975643
+'flooding health',en,Impacts,#a89216,#bfba22,3,0.0852978547797564
 'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.0798308420709617
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.076951802851443
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0764728108670758
