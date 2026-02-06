@@ -1,4 +1,4 @@
-hiimport mysecrets
+import mysecrets
 import os
 import sys
 import math
