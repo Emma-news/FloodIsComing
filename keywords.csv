@@ -23,11 +23,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0872840382468107
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0852978547797564
 'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.0798308420709617
-'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.076951802851443
 'flooding death',en,Impacts,#a89216,#87830f,3,0.074441957873378
+'tidal surge',en,Hazard,#4287f5,#3b4a63,1,0.06540939242372655
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0652349937078687
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0609643939794771
-'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.057541832942215196
+'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0575418329422151
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0560966192904934
 'flooding brigade',en,Mitigation,#9e3215,#802d16,2,0.0539142376189761
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.0315455004794824
