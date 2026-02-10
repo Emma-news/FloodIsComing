@@ -19,9 +19,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.0965412630313816
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.094949725525181
 'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.091819463472548
-'flooding house',en,Impacts,#a89216,#a89216,3,0.0886829996197726
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0872840382468107
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0852978547797564
+'flooding house',en,Impacts,#a89216,#a89216,3,0.08470614489419802
 'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.0798308420709617
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.074700502473211
 'flooding death',en,Impacts,#a89216,#87830f,3,0.074441957873378
