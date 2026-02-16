@@ -14,13 +14,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1172309462314737
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.1144671023518149
 'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.1032813500571044
+'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.1016707643358677
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.0998637006933699
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.094949725525181
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.094773166623738
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0899453370489572
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0872840382468107
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0852978547797564
-'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.08447999514626979
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.0820610485766743
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.074700502473211
 'flooding death',en,Impacts,#a89216,#87830f,3,0.074441957873378
