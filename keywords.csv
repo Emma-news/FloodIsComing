@@ -16,10 +16,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.1144671023518149
 'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.1032813500571044
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.0998637006933699
-'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.0966713796854875
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.0952093479030763
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.094949725525181
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.094773166623738
+'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.09126421042497207
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0872840382468107
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0854650989054067
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0852978547797564
