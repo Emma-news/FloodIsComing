@@ -22,12 +22,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.091264210424972
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0872840382468107
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0854650989054067
-'flooding health',en,Impacts,#a89216,#bfba22,3,0.08151506527247036
+'flooding health',en,Impacts,#a89216,#bfba22,3,0.0815150652724703
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0772171359423739
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.074700502473211
 'flooding death',en,Impacts,#a89216,#87830f,3,0.074441957873378
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0652349937078687
-'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.0640987823925784
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0609643939794771
+'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.056434190033691635
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0417587176797101
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.0315455004794824
