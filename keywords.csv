@@ -21,9 +21,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.094773166623738
 'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.091264210424972
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0872840382468107
-'flooding house',en,Impacts,#a89216,#a89216,3,0.0854650989054067
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0815150652724703
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0772171359423739
+'flooding house',en,Impacts,#a89216,#a89216,3,0.0768514990695957
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.074700502473211
 'flooding death',en,Impacts,#a89216,#87830f,3,0.074441957873378
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0652349937078687
