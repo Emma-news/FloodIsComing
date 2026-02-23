@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1201404473997645
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1192746507936262
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.1144671023518149
-'flooding residents',en,Impacts,#a89216,#87830f,3,0.10778646247857082
+'flooding residents',en,Impacts,#a89216,#87830f,3,0.1077864624785708
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1075365148935555
-'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.1032813500571044
+'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.10129513254853874
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.0998637006933699
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.0952093479030763
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.094949725525181
