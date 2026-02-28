@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.1870335833828176
+'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.1707251230182521
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1603569136885426
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1512141691843931
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1436380953633924
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.0952093479030763
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.094949725525181
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.094773166623738
-'flooding house',en,Impacts,#a89216,#a89216,3,0.08928125151116846
+'flooding house',en,Impacts,#a89216,#a89216,3,0.0892812515111684
 'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.0845332935320421
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0832042512194665
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0772171359423739
