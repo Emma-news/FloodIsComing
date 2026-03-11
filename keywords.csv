@@ -16,14 +16,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.1063405110899517
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0976016083387426
 'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.0968201465163192
-'flooding buildings',en,Impacts,#a89216,#a89216,3,0.094949725525181
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.094773166623738
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0928982768687684
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0914800916926256
+'flooding buildings',en,Impacts,#a89216,#a89216,3,0.08971402540608125
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.0890104257176148
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0832042512194665
 'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.0824688720769003
-'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.07939312154286457
+'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.0793931215428645
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0772171359423739
 'flooding death',en,Impacts,#a89216,#87830f,3,0.074441957873378
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0679530988687993
