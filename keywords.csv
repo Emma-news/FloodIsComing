@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'floods',en,Hazard,#4287f5,#638ed4,3,0.18189976163526123
+'floods',en,Hazard,#4287f5,#638ed4,3,0.1818997616352612
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1497516362960557
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1493412501195147
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1330850452146853
@@ -28,6 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding death',en,Impacts,#a89216,#87830f,3,0.074441957873378
 'tidal surge',en,Hazard,#4287f5,#3b4a63,1,0.0634958171022293
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0622463548825555
-'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0522990174327074
+'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.04610437481780129
 'flooding brigade',en,Mitigation,#9e3215,#802d16,2,0.0420264422735904
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.0391141631164317
