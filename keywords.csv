@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1330850452146853
 'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.1325578310006714
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1230976319265535
-'flooding storm',en,Causes,#679e2c,#61b00c,3,0.11723404958259909
+'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.12272032392814801
+'flooding storm',en,Causes,#679e2c,#61b00c,3,0.117234049582599
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1142715318869637
-'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1112746302897998
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1111258985775367
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1096569450775615
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1082494804147463
