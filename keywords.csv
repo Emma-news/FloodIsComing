@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1096569450775615
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1082494804147463
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1077864624785708
-'flooding victims',en,Impacts,#a89216,#87830f,3,0.10195837879090619
+'flooding victims',en,Impacts,#a89216,#87830f,3,0.1019583787909061
 'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.0991217881754892
-'flooding health',en,Impacts,#a89216,#bfba22,3,0.096326114507286
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0960896681958034
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.09551230576249
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.094773166623738
+'flooding health',en,Impacts,#a89216,#bfba22,3,0.0937132923311931
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.0931163268599725
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0928982768687684
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0914800916926256
