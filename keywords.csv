@@ -18,11 +18,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.09551230576249
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0937132923311931
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0928982768687684
+'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.0919601319213649
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0914800916926256
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0884296885365465
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0882324461968027
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0864245533010522
-'flooding atmospheric river',en,Causes,#679e2c,#7db344,1,0.0805576266301772
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0772171359423739
 'deluge rain',en,Hazard,#4287f5,#315fa8,3,0.0730093461535843
 'tidal surge',en,Hazard,#4287f5,#3b4a63,1,0.0634958171022293
