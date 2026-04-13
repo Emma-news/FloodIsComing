@@ -16,7 +16,7 @@ winter,winter,DATE,,,en,54.19999999999994
 hundreds,hundreds,CARDINAL,,,en,51.79999999999994
 Christmas,Christmas,DATE,,,en,43.99999999999997
 dozens,dozens,CARDINAL,,,en,43.799999999999955
-Hurricane Melissa,Hurricane Melissa,EVENT,-1.1815331890331893,28.067581168831165,en,43.000000000000014
+Hurricane Melissa,Hurricane Melissa,EVENT,-1.1815331890331893,28.067581168831165,en,42.90000000000001
 Thousands,Thousands,CARDINAL,,,en,41.59999999999997
 first,first,ORDINAL,,,en,41.09999999999997
 Camp Mystic,Camp Mystic,FAC,,,en,39.79999999999996
@@ -260,8 +260,8 @@ more than 800,more than 800,CARDINAL,,,en,4.9
 At least 46,At least 46,CARDINAL,,,en,4.8999999999999995
 Christian,Christian,NORP,,,en,4.8
 6,6,CARDINAL,,,en,4.8
-at least 23,at least 23,CARDINAL,,,en,4.7
 |,|,CARDINAL,,,en,4.7
+at least 23,at least 23,CARDINAL,,,en,4.7
 80,80,CARDINAL,,,en,4.7
 the days,the days,DATE,,,en,4.7
 9,9,CARDINAL,,,en,4.7
@@ -423,43 +423,42 @@ this season,this season,DATE,,,en,3.0
 238,238,CARDINAL,,,en,3.0
 more than 850,more than 850,CARDINAL,,,en,3.0
 Thirty seven,Thirty seven,CARDINAL,,,en,3.0
-At least five,At least five,CARDINAL,,,en,3.0
 More than 1.5 million,More than 1.5 million,CARDINAL,,,en,3.0
-two hours,two hours,TIME,,,en,3.0
+At least five,At least five,CARDINAL,,,en,3.0
 South African,South African,NORP,,,en,3.0
+two hours,two hours,TIME,,,en,3.0
 Hurricane Lorena,Hurricane Lorena,EVENT,,,en,2.9999999999999996
 at least 85,at least 85,CARDINAL,,,en,2.9000000000000004
-Indias,Indias,NORP,0.14204545454545453,0.9755681818181818,en,2.9
-last weekend,last weekend,DATE,,,en,2.9
-last September,last September,DATE,,,en,2.9
 thousand,thousand,CARDINAL,,,en,2.9
-More than 30,More than 30,CARDINAL,,,en,2.9
-at least 4,at least 4,CARDINAL,,,en,2.9
-Israels,Israels,NORP,,,en,2.9
 Two years ago,Two years ago,DATE,,,en,2.9
+Israels,Israels,NORP,,,en,2.9
+last weekend,last weekend,DATE,,,en,2.9
+at least 4,at least 4,CARDINAL,,,en,2.9
+More than 30,More than 30,CARDINAL,,,en,2.9
+last September,last September,DATE,,,en,2.9
+Indias,Indias,NORP,0.14204545454545453,0.9755681818181818,en,2.9
 the afternoon,the afternoon,TIME,,,en,2.8000000000000003
+"1,603","1,603",CARDINAL,,,en,2.8
+around 1.4 million,around 1.4 million,CARDINAL,,,en,2.8
+355,355,CARDINAL,,,en,2.8
+218,218,CARDINAL,,,en,2.8
 Morning,Morning,TIME,,,en,2.8
 2017,2017,DATE,,,en,2.8
-218,218,CARDINAL,,,en,2.8
-355,355,CARDINAL,,,en,2.8
-Eighteen,Eighteen,CARDINAL,,,en,2.8
-"1,603","1,603",CARDINAL,,,en,2.8
 2 million,2 million,CARDINAL,,,en,2.8
-around 1.4 million,around 1.4 million,CARDINAL,,,en,2.8
+$250m,$250m,MONEY,,,en,2.8
 more than £281 million,more than £281 million,MONEY,,,en,2.8
 Wednesday night,Wednesday night,TIME,,,en,2.8
-$250m,$250m,MONEY,,,en,2.8
 at least 81,at least 81,CARDINAL,,,en,2.8
 "20,000","20,000",CARDINAL,,,en,2.8
 123,123,CARDINAL,,,en,2.8
+just a few hours,just a few hours,TIME,,,en,2.8
 more than a decade,more than a decade,DATE,,,en,2.8
-7,7,CARDINAL,,,en,2.8
 Sumatra,Sumatra,NORP,0.0063291139240506415,0.021498894916616464,en,2.8
 Dec 1,Dec 1,DATE,,,en,2.8
-just a few hours,just a few hours,TIME,,,en,2.8
+7,7,CARDINAL,,,en,2.8
 "more than 379,000","more than 379,000",CARDINAL,,,en,2.8
-the holidays,the holidays,DATE,,,en,2.8
-"4,000","4,000",CARDINAL,,,en,2.8
+Eighteen,Eighteen,CARDINAL,,,en,2.8
+At least 42,At least 42,CARDINAL,,,en,2.8
 at least 10,at least 10,CARDINAL,,,en,2.8
 53,53,CARDINAL,,,en,2.8
 At least 49,At least 49,CARDINAL,,,en,2.8
@@ -473,8 +472,8 @@ Feb. 16,Feb. 16,DATE,,,en,2.8
 81,81,CARDINAL,,,en,2.8
 278,278,CARDINAL,,,en,2.8
 4 p.m.,4 p.m.,TIME,,,en,2.8
-At least 42,At least 42,CARDINAL,,,en,2.8
 the last week,the last week,DATE,,,en,2.8
+the holidays,the holidays,DATE,,,en,2.8
 six months,six months,DATE,,,en,2.8
 Venezuelans,Venezuelans,NORP,,,en,2.8
 one year,one year,DATE,,,en,2.8
@@ -487,6 +486,7 @@ the days ahead,the days ahead,DATE,,,en,2.8
 Nearly 400,Nearly 400,CARDINAL,,,en,2.8
 100,100,CARDINAL,,,en,2.8
 Territorians,Territorians,NORP,,,en,2.8
+"4,000","4,000",CARDINAL,,,en,2.8
 three months,three months,DATE,,,en,2.8
 holiday weekend,holiday weekend,DATE,,,en,2.8
 Muslims,Muslims,NORP,,,en,2.8
@@ -536,11 +536,11 @@ More than 700,More than 700,CARDINAL,,,en,2.8
 2000,2000,DATE,,,en,2.8
 New Year's,New Year's,EVENT,,,en,2.8
 1998,1998,DATE,,,en,2.8
-90,90,CARDINAL,,,en,2.8
 70,70,CARDINAL,,,en,2.8
 more than 600,more than 600,CARDINAL,,,en,2.8
-North Korean,North Korean,NORP,,,en,2.8
 more than 40,more than 40,CARDINAL,,,en,2.8
+North Korean,North Korean,NORP,,,en,2.8
+90,90,CARDINAL,,,en,2.8
 Thirty,Thirty,CARDINAL,,,en,2.8
 Jan. 27,Jan. 27,DATE,,,en,2.8
 "406,000","406,000",MONEY,,,en,2.8
@@ -969,8 +969,8 @@ July 27,July 27,DATE,,,en,1.9
 late Thursday,late Thursday,TIME,,,en,1.9
 this upcoming weekend,this upcoming weekend,DATE,,,en,1.9
 Tuesday afternoon,Tuesday afternoon,TIME,,,en,1.9
-Jan 15,Jan 15,DATE,,,en,1.9
 3000,3000,CARDINAL,,,en,1.9
+Jan 15,Jan 15,DATE,,,en,1.9
 "74,000","74,000",MONEY,,,en,1.9
 three straight days,three straight days,DATE,,,en,1.9
 Baglihar,Baglihar,NORP,,,en,1.9
@@ -1036,76 +1036,77 @@ final day,final day,DATE,,,en,1.7
 wettest month of the season,wettest month of the season,DATE,,,en,1.7
 20%,20%,PERCENT,,,en,1.7
 315,315,CARDINAL,,,en,1.7
-only days,only days,DATE,,,en,1.7
-56%,56%,PERCENT,,,en,1.7
-Jan 4,Jan 4,DATE,,,en,1.7
-8am,8am,TIME,,,en,1.7
 July 15th and July 27th,July 15th and July 27th,DATE,,,en,1.7
-only one,only one,CARDINAL,,,en,1.7
+8am,8am,TIME,,,en,1.7
+86,86,DATE,,,en,1.7
+56%,56%,PERCENT,,,en,1.7
+September 2024,September 2024,DATE,,,en,1.7
+Jan 4,Jan 4,DATE,,,en,1.7
 Christmas Eve and Christmas Day,Christmas Eve and Christmas Day,DATE,,,en,1.7
-"300,000","300,000",CARDINAL,,,en,1.7
 March 21,March 21,DATE,,,en,1.7
 the Jersey Shore,the Jersey Shore,FAC,0.8555555555555555,1.6333333333333333,en,1.7
 earlier in the afternoon,earlier in the afternoon,TIME,,,en,1.7
-86,86,DATE,,,en,1.7
-September 2024,September 2024,DATE,,,en,1.7
-half a trillion dollars,half a trillion dollars,MONEY,,,en,1.7
 Meet the Press,Meet the Press,WORK_OF_ART,,,en,1.7
 Gemini,Gemini,PRODUCT,0.0,0.1111111111111111,en,1.7
 Jan 8) afternoon,Jan 8) afternoon,DATE,,,en,1.7
 433,433,CARDINAL,,,en,1.7
 32.3 million,32.3 million,CARDINAL,,,en,1.7
 between 2015 and 2024,between 2015 and 2024,CARDINAL,,,en,1.7
-"more than 200,000","more than 200,000",CARDINAL,,,en,1.7
 "more than 3,500","more than 3,500",CARDINAL,,,en,1.7
 Dec 29,Dec 29,DATE,,,en,1.7
+only one,only one,CARDINAL,,,en,1.7
+"more than 200,000","more than 200,000",CARDINAL,,,en,1.7
 September 11,September 11,DATE,,,en,1.7
+"300,000","300,000",CARDINAL,,,en,1.7
+half a trillion dollars,half a trillion dollars,MONEY,,,en,1.7
+only days,only days,DATE,,,en,1.7
 Times Square,Times Square,FAC,,,en,1.6
 Sept. 27,Sept. 27,DATE,,,en,1.6
+72 hours,72 hours,TIME,,,en,1.6
+114,114,CARDINAL,,,en,1.6
+Hurricane Helene's,Hurricane Helene's,EVENT,,,en,1.6
+Honduran,Honduran,NORP,,,en,1.6
 At least 47,At least 47,CARDINAL,,,en,1.6
 At least 66,At least 66,CARDINAL,,,en,1.6
-72 hours,72 hours,TIME,,,en,1.6
 Sept 25,Sept 25,DATE,,,en,1.6
-Honduran,Honduran,NORP,,,en,1.6
-Hurricane Helene's,Hurricane Helene's,EVENT,,,en,1.6
 Sri Lankan,Sri Lankan,NORP,,,en,1.6
-114,114,CARDINAL,,,en,1.6
 60 mph,60 mph,QUANTITY,,,en,1.6
 Republicans,Republicans,NORP,,,en,1.5000000000000004
-more than 25 million,more than 25 million,CARDINAL,,,en,1.5
 30th,30th,ORDINAL,,,en,1.5
+more than 25 million,more than 25 million,CARDINAL,,,en,1.5
 2014,2014,DATE,,,en,1.4000000000000001
-Hurricane Kiko,Hurricane Kiko,EVENT,,,en,1.4
-Almost 300,Almost 300,CARDINAL,,,en,1.4
 the night,the night,TIME,,,en,1.4
 30%,30%,PERCENT,,,en,1.4
-Filipino,Filipino,NORP,,,en,1.4
 80%,80%,PERCENT,,,en,1.4
 two days,two days,DATE,,,en,1.4
+Filipino,Filipino,NORP,,,en,1.4
+Almost 300,Almost 300,CARDINAL,,,en,1.4
 Death Valley National Park,Death Valley National Park,FAC,,,en,1.4
+Hurricane Kiko,Hurricane Kiko,EVENT,,,en,1.4
 4.4,4.4,CARDINAL,,,en,1.3000000000000003
 Filipinos,Filipinos,NORP,,,en,1.3000000000000003
-six inches,six inches,QUANTITY,,,en,1.3
-2018,2018,CARDINAL,,,en,1.3
-all week,all week,DATE,,,en,1.3
 More than 400,More than 400,CARDINAL,,,en,1.3
-JULY 04,JULY 04,DATE,,,en,1.3
-hundred,hundred,CARDINAL,,,en,1.3
-Red Hook,Red Hook,FAC,,,en,1.3
-Five minutes,Five minutes,TIME,,,en,1.3
-Latin American,Latin American,NORP,,,en,1.3
-five o’clock… EVERY WEEKDAY EVENING,five o’clock… EVERY WEEKDAY EVENING,TIME,,,en,1.3
-years ago,years ago,DATE,,,en,1.3
-last months,last months,DATE,,,en,1.3
+around $850,around $850,MONEY,,,en,1.3
+all week,all week,DATE,,,en,1.3
 1888,1888,DATE,,,en,1.3
+Five minutes,Five minutes,TIME,,,en,1.3
+six inches,six inches,QUANTITY,,,en,1.3
+Latin American,Latin American,NORP,,,en,1.3
+last months,last months,DATE,,,en,1.3
 220bn,220bn,MONEY,,,en,1.3
 tens of millions,tens of millions,MONEY,,,en,1.3
+2018,2018,CARDINAL,,,en,1.3
 next year's,next year's,DATE,,,en,1.3
-around $850,around $850,MONEY,,,en,1.3
-five years,five years,DATE,,,en,1.3
-Thursdays,Thursdays,DATE,,,en,1.3
+JULY 04,JULY 04,DATE,,,en,1.3
 2030,2030,DATE,,,en,1.3
+hundred,hundred,CARDINAL,,,en,1.3
+Red Hook,Red Hook,FAC,,,en,1.3
+five years,five years,DATE,,,en,1.3
+years ago,years ago,DATE,,,en,1.3
+five o’clock… EVERY WEEKDAY EVENING,five o’clock… EVERY WEEKDAY EVENING,TIME,,,en,1.3
+Thursdays,Thursdays,DATE,,,en,1.3
 "12,000","12,000",CARDINAL,,,en,1.3
+around 10%,around 10%,PERCENT,,,en,1.3
 her 80s,her 80s,DATE,,,en,1.3
 at least 38,at least 38,CARDINAL,,,en,1.3
 more than 60,more than 60,CARDINAL,,,en,1.3
@@ -1118,121 +1119,120 @@ more than $100 billion,more than $100 billion,MONEY,,,en,1.3
 more than 7 million,more than 7 million,CARDINAL,,,en,1.3
 Oct. 1,Oct. 1,DATE,,,en,1.3
 only three,only three,CARDINAL,,,en,1.3
-the past 160 years,the past 160 years,DATE,,,en,1.3
-around 10%,around 10%,PERCENT,,,en,1.3
-five decades,five decades,DATE,,,en,1.3
-3 Days,3 Days,DATE,,,en,1.3
 "1,230","1,230",CARDINAL,,,en,1.3
-December day,December day,DATE,,,en,1.3
-more than 200 millimetres,more than 200 millimetres,QUANTITY,,,en,1.3
-Grand Canal Dock,Grand Canal Dock,FAC,,,en,1.3
-the Hill Country,the Hill Country,FAC,-0.13333333333333333,0.5833333333333333,en,1.3
-Sunday night,Sunday night,TIME,,,en,1.3
-two-thirds,two-thirds,CARDINAL,,,en,1.3
-many years,many years,DATE,,,en,1.3
-"8,000","8,000",MONEY,,,en,1.3
-just 72 hours,just 72 hours,TIME,,,en,1.3
+the past 160 years,the past 160 years,DATE,,,en,1.3
+five decades,five decades,DATE,,,en,1.3
 Storm Bram,Storm Bram,PRODUCT,,,en,1.3
-188,188,CARDINAL,,,en,1.2000000000000002
-more than six months,more than six months,DATE,,,en,1.2000000000000002
+many years,many years,DATE,,,en,1.3
+just 72 hours,just 72 hours,TIME,,,en,1.3
+"8,000","8,000",MONEY,,,en,1.3
+two-thirds,two-thirds,CARDINAL,,,en,1.3
+3 Days,3 Days,DATE,,,en,1.3
+the Hill Country,the Hill Country,FAC,-0.13333333333333333,0.5833333333333333,en,1.3
+Grand Canal Dock,Grand Canal Dock,FAC,,,en,1.3
+more than 200 millimetres,more than 200 millimetres,QUANTITY,,,en,1.3
+December day,December day,DATE,,,en,1.3
+Sunday night,Sunday night,TIME,,,en,1.3
 Nazi,Nazi,NORP,,,en,1.2000000000000002
+188,188,CARDINAL,,,en,1.2000000000000002
 this autumn,this autumn,DATE,,,en,1.2000000000000002
+more than six months,more than six months,DATE,,,en,1.2000000000000002
 Black Friday,Black Friday,EVENT,,,en,1.2000000000000002
-Oct 7,Oct 7,DATE,,,en,1.2000000000000002
-weekly,weekly,DATE,,,en,1.2000000000000002
-73%,73%,PERCENT,,,en,1.2000000000000002
-100%,100%,PERCENT,,,en,1.2000000000000002
-"1,600","1,600",CARDINAL,,,en,1.2000000000000002
-October 29,October 29,DATE,,,en,1.2000000000000002
-October 28,October 28,DATE,,,en,1.2000000000000002
 late-night,late-night,TIME,,,en,1.2000000000000002
-autumn,autumn,DATE,,,en,1.2000000000000002
-early October,early October,DATE,,,en,1.2000000000000002
-nearly a year,nearly a year,DATE,,,en,1.2000000000000002
+October 29,October 29,DATE,,,en,1.2000000000000002
+100%,100%,PERCENT,,,en,1.2000000000000002
 more than 1 million,more than 1 million,CARDINAL,,,en,1.2000000000000002
+73%,73%,PERCENT,,,en,1.2000000000000002
+early October,early October,DATE,,,en,1.2000000000000002
+Oct 7,Oct 7,DATE,,,en,1.2000000000000002
+nearly a year,nearly a year,DATE,,,en,1.2000000000000002
+weekly,weekly,DATE,,,en,1.2000000000000002
+autumn,autumn,DATE,,,en,1.2000000000000002
+"1,600","1,600",CARDINAL,,,en,1.2000000000000002
+October 28,October 28,DATE,,,en,1.2000000000000002
 220%,220%,PERCENT,,,en,1.2
+the Panama Canal,the Panama Canal,FAC,,,en,1.2
+75th,75th,ORDINAL,,,en,1.2
 Operation Metro Surge,Operation Metro Surge,FAC,,,en,1.2
-Hungarian,Hungarian,NORP,,,en,1.2
 19th,19th,ORDINAL,,,en,1.2
+Hungarian,Hungarian,NORP,,,en,1.2
 Rwandan,Rwandan,NORP,,,en,1.2
 11th,11th,ORDINAL,,,en,1.2
 just a third,just a third,CARDINAL,,,en,1.2
-the Panama Canal,the Panama Canal,FAC,,,en,1.2
-September 8,September 8,DATE,,,en,1.2
-Arc,Arc,PRODUCT,,,en,1.2
 about 200,about 200,CARDINAL,,,en,1.2
-75th,75th,ORDINAL,,,en,1.2
-more than 1.4 million,more than 1.4 million,CARDINAL,,,en,1.1
-full-year,full-year,DATE,,,en,1.1
-10 NOV 1975,10 NOV 1975,DATE,,,en,1.1
-Amazonian,Amazonian,NORP,,,en,1.1
-53.03,53.03,CARDINAL,,,en,1.1
-fifty years ago,fifty years ago,DATE,,,en,1.1
+Arc,Arc,PRODUCT,,,en,1.2
+September 8,September 8,DATE,,,en,1.2
+a few months,a few months,DATE,,,en,1.1
 nine months,nine months,DATE,,,en,1.1
-more than a few,more than a few,CARDINAL,,,en,1.1
 11 years later,11 years later,DATE,,,en,1.1
-1 million,1 million,CARDINAL,,,en,1.1
-dozen,dozen,CARDINAL,,,en,1.1
-Swastika,Swastika,NORP,,,en,1.1
+more than a few,more than a few,CARDINAL,,,en,1.1
+fifty years ago,fifty years ago,DATE,,,en,1.1
+53.03,53.03,CARDINAL,,,en,1.1
+Amazonian,Amazonian,NORP,,,en,1.1
+10 NOV 1975,10 NOV 1975,DATE,,,en,1.1
+more than 1.4 million,more than 1.4 million,CARDINAL,,,en,1.1
 up to four million,up to four million,CARDINAL,,,en,1.1
 180km,180km,QUANTITY,,,en,1.1
 up to five metres,up to five metres,QUANTITY,,,en,1.1
 another weekend,another weekend,DATE,,,en,1.1
 the fall fire season,the fall fire season,DATE,,,en,1.1
+less than 0.1%,less than 0.1%,PERCENT,,,en,1.1
+full-year,full-year,DATE,,,en,1.1
+the recent 30 years,the recent 30 years,DATE,,,en,1.1
+dozen,dozen,CARDINAL,,,en,1.1
+Swastika,Swastika,NORP,,,en,1.1
+"153,074","153,074",CARDINAL,,,en,1.1
+1 million,1 million,CARDINAL,,,en,1.1
+that month,that month,DATE,,,en,1.1
+[2 years,[2 years,DATE,,,en,1.1
+end-of-year,end-of-year,DATE,,,en,1.1
 Sept. 28,Sept. 28,DATE,,,en,1.1
 the past few months,the past few months,DATE,,,en,1.1
-a few months,a few months,DATE,,,en,1.1
-less than 0.1%,less than 0.1%,PERCENT,,,en,1.1
 Typhoon Fung-wong's,Typhoon Fung-wong's,EVENT,,,en,1.1
-end-of-year,end-of-year,DATE,,,en,1.1
-[2 years,[2 years,DATE,,,en,1.1
-that month,that month,DATE,,,en,1.1
-the recent 30 years,the recent 30 years,DATE,,,en,1.1
-"153,074","153,074",CARDINAL,,,en,1.1
 Nov 6,Nov 6,DATE,,,en,1.1
 7;10 PM EST,7;10 PM EST,TIME,,,en,1.1
+the past few years,the past few years,DATE,,,en,1.1
 early July,early July,DATE,,,en,1.1
-million,million,CARDINAL,,,en,1.1
-the First World War,the First World War,EVENT,,,en,1.1
-1982,1982,DATE,,,en,1.1
-just three,just three,CARDINAL,,,en,1.1
-"May 7, 1915","May 7, 1915",DATE,,,en,1.1
-185 mph,185 mph,QUANTITY,,,en,1.1
-this Friday,this Friday,DATE,,,en,1.1
-25 years,25 years,DATE,,,en,1.1
-One year,One year,DATE,,,en,1.1
-2025 America,2025 America,QUANTITY,,,en,1.1
 seconds,seconds,TIME,,,en,1.1
-190,190,CARDINAL,,,en,1.1
 Alaskans,Alaskans,NORP,,,en,1.1
 the Great Smoky Mountains,the Great Smoky Mountains,EVENT,,,en,1.1
+25 years,25 years,DATE,,,en,1.1
 the White House,the White House,FAC,,,en,1.1
-the past few years,the past few years,DATE,,,en,1.1
+One year,One year,DATE,,,en,1.1
+million,million,CARDINAL,,,en,1.1
 23,23,CARDINAL,,,en,1.1
-late last month,late last month,DATE,,,en,1.1
-just two hours,just two hours,TIME,,,en,1.1
-Earlier this year,Earlier this year,DATE,,,en,1.1
+this Friday,this Friday,DATE,,,en,1.1
+2025 America,2025 America,QUANTITY,,,en,1.1
 four days,four days,DATE,,,en,1.1
+185 mph,185 mph,QUANTITY,,,en,1.1
 Hurricane Ida,Hurricane Ida,EVENT,,,en,1.1
-one hour,one hour,TIME,,,en,1.0
-close to 11 inches,close to 11 inches,QUANTITY,,,en,1.0
-5060 mph,5060 mph,QUANTITY,,,en,1.0
-At least 28,At least 28,CARDINAL,,,en,1.0
-late Thursday night,late Thursday night,TIME,,,en,1.0
+"May 7, 1915","May 7, 1915",DATE,,,en,1.1
+late last month,late last month,DATE,,,en,1.1
+just three,just three,CARDINAL,,,en,1.1
+1982,1982,DATE,,,en,1.1
+Earlier this year,Earlier this year,DATE,,,en,1.1
+the First World War,the First World War,EVENT,,,en,1.1
+just two hours,just two hours,TIME,,,en,1.1
+190,190,CARDINAL,,,en,1.1
 59,59,CARDINAL,,,en,1.0
-the first six months of this year,the first six months of this year,DATE,,,en,1.0
-12–15-foot,12–15-foot,CARDINAL,,,en,1.0
-Rajasthans,Rajasthans,NORP,,,en,1.0
-Almost 130,Almost 130,CARDINAL,,,en,1.0
 around 140 km/h,around 140 km/h,QUANTITY,,,en,1.0
-0.0.47,0.0.47,CARDINAL,,,en,1.0
-The first half of 2025,The first half of 2025,DATE,,,en,1.0
-541,541,CARDINAL,,,en,1.0
-15-19 inches,15-19 inches,QUANTITY,,,en,1.0
-10 p.m.,10 p.m.,TIME,,,en,1.0
-six-day-old,six-day-old,DATE,,,en,1.0
-84 hrs,84 hrs,TIME,,,en,1.0
+one hour,one hour,TIME,,,en,1.0
 "November 11, 2025","November 11, 2025",DATE,,,en,1.0
+The first half of 2025,The first half of 2025,DATE,,,en,1.0
+15-19 inches,15-19 inches,QUANTITY,,,en,1.0
+six-day-old,six-day-old,DATE,,,en,1.0
+Rajasthans,Rajasthans,NORP,,,en,1.0
+10 p.m.,10 p.m.,TIME,,,en,1.0
+541,541,CARDINAL,,,en,1.0
+0.0.47,0.0.47,CARDINAL,,,en,1.0
+Almost 130,Almost 130,CARDINAL,,,en,1.0
+12–15-foot,12–15-foot,CARDINAL,,,en,1.0
+late Thursday night,late Thursday night,TIME,,,en,1.0
+At least 28,At least 28,CARDINAL,,,en,1.0
+5060 mph,5060 mph,QUANTITY,,,en,1.0
+close to 11 inches,close to 11 inches,QUANTITY,,,en,1.0
+nearly 11 inches,nearly 11 inches,QUANTITY,,,en,1.0
+the first six months of this year,the first six months of this year,DATE,,,en,1.0
 the Twin Towers Mall,the Twin Towers Mall,FAC,,,en,1.0
 at least 337,at least 337,CARDINAL,,,en,1.0
 Tropical Storm Priscilla,Tropical Storm Priscilla,WORK_OF_ART,,,en,1.0
@@ -1247,7 +1247,7 @@ Cabo de la Nao,Cabo de la Nao,FAC,,,en,1.0
 60 mm,60 mm,QUANTITY,,,en,1.0
 August 26,August 26,DATE,,,en,1.0
 +5852,+5852,NORP,,,en,1.0
-nearly 11 inches,nearly 11 inches,QUANTITY,,,en,1.0
+84 hrs,84 hrs,TIME,,,en,1.0
 comeAP News Flash,comeAP News Flash,FAC,,,en,1.0
 175 MPH,175 MPH,QUANTITY,,,en,1.0
 1851,1851,DATE,,,en,1.0
@@ -1302,8 +1302,8 @@ at least 750,at least 750,CARDINAL,,,en,1.0
 six-hour-long,six-hour-long,TIME,,,en,1.0
 At Least 64,At Least 64,CARDINAL,,,en,1.0
 At least 337,At least 337,CARDINAL,,,en,1.0
-Less Than a Week,Less Than a Week,DATE,,,en,1.0
 Nearly a decade,Nearly a decade,DATE,,,en,1.0
+Less Than a Week,Less Than a Week,DATE,,,en,1.0
 Sarjapur Road,Sarjapur Road,FAC,,,en,1.0
 Oct. 27,Oct. 27,DATE,,,en,1.0
 Continuous,Continuous,WORK_OF_ART,,,en,1.0
@@ -1368,10 +1368,10 @@ Aug 20,Aug 20,DATE,,,en,1.0
 nearly a year ago,nearly a year ago,DATE,,,en,1.0
 at least 18 months,at least 18 months,DATE,,,en,1.0
 half a decade,half a decade,DATE,,,en,1.0
-1.6,1.6,MONEY,,,en,1.0
-the start of July,the start of July,DATE,,,en,1.0
-"Oct 20, 2025","Oct 20, 2025",DATE,,,en,1.0
 7:00 PM CDTLast year,7:00 PM CDTLast year,TIME,,,en,1.0
+the start of July,the start of July,DATE,,,en,1.0
+186,186,CARDINAL,,,en,1.0
+H1 2025,H1 2025,CARDINAL,,,en,1.0
 September 7,September 7,DATE,,,en,1.0
 23 feet,23 feet,QUANTITY,,,en,1.0
 the Kala Ghoda,the Kala Ghoda,FAC,,,en,1.0
@@ -1389,7 +1389,7 @@ Storm Benjamin,Storm Benjamin,PRODUCT,,,en,1.0
 Panyijiar - Radio Tamazuj,Panyijiar - Radio Tamazuj,FAC,,,en,1.0
 Day 22,Day 22,DATE,,,en,1.0
 11:30 AM,11:30 AM,TIME,,,en,1.0
-Generational Political War,Generational Political War,EVENT,,,en,1.0
+"Oct 20, 2025","Oct 20, 2025",DATE,,,en,1.0
 rainy day,rainy day,DATE,,,en,1.0
 The Perfect Neighbor’ Is Hard to Watch,The Perfect Neighbor’ Is Hard to Watch,WORK_OF_ART,,,en,1.0
 the last few seasons,the last few seasons,DATE,,,en,1.0
@@ -1401,12 +1401,12 @@ Hurricane Watch,Hurricane Watch,EVENT,,,en,1.0
 "Flooding Rain, Heavy Snow","Flooding Rain, Heavy Snow",FAC,,,en,1.0
 The Secrets of Consulting,The Secrets of Consulting,WORK_OF_ART,,,en,1.0
 THREE,THREE,CARDINAL,,,en,1.0
-186,186,CARDINAL,,,en,1.0
 two dozen,two dozen,CARDINAL,,,en,1.0
 the Pulitzer Center,the Pulitzer Center,FAC,,,en,1.0
 +21020,+21020,NORP,,,en,1.0
 350,350,CARDINAL,,,en,1.0
-H1 2025,H1 2025,CARDINAL,,,en,1.0
+1.6,1.6,MONEY,,,en,1.0
+Generational Political War,Generational Political War,EVENT,,,en,1.0
 the first year,the first year,DATE,,,en,1.0
 25 million,25 million,CARDINAL,,,en,1.0
 Aug 22,Aug 22,DATE,,,en,1.0
@@ -1442,9 +1442,9 @@ August 22nd,August 22nd,DATE,,,en,1.0
 "1,340","1,340",CARDINAL,,,en,1.0
 505,505,CARDINAL,,,en,1.0
 Caribbean.&nbsp,Caribbean.&nbsp,FAC,,,en,1.0
+84 hours,84 hours,TIME,,,en,1.0
 126 years,126 years,DATE,,,en,1.0
 Robovac,Robovac,PRODUCT,,,en,1.0
-84 hours,84 hours,TIME,,,en,1.0
 At least 314,At least 314,CARDINAL,,,en,1.0
 Flood Action Week,Flood Action Week,EVENT,,,en,1.0
 08,08,DATE,,,en,1.0
@@ -1507,7 +1507,7 @@ Hurricane Erin 2025,Hurricane Erin 2025,EVENT,,,en,1.0
 "Watersheds
 Flooding","Watersheds
 Flooding",PRODUCT,,,en,1.0
-around 400,around 400,CARDINAL,,,en,1.0
+over 250,over 250,CARDINAL,,,en,1.0
 Climate Resilient Coasts,Climate Resilient Coasts,PRODUCT,,,en,1.0
 every winter,every winter,DATE,,,en,1.0
 75 mph,75 mph,QUANTITY,,,en,1.0
@@ -1633,7 +1633,7 @@ between Friday and Saturday,between Friday and Saturday,DATE,,,en,1.0
 Over 25 million,Over 25 million,CARDINAL,,,en,1.0
 Chandigarh:,Chandigarh:,WORK_OF_ART,,,en,1.0
 September 12,September 12,DATE,,,en,1.0
-over 250,over 250,CARDINAL,,,en,1.0
+at least 250,at least 250,CARDINAL,,,en,1.0
 September 6,September 6,DATE,,,en,1.0
 20250906,20250906,CARDINAL,,,en,1.0
 Nov.,Nov.,DATE,,,en,1.0
@@ -1651,7 +1651,7 @@ months ago,months ago,DATE,,,en,1.0
 1976,1976,DATE,,,en,1.0
 a potentially hazardous week,a potentially hazardous week,DATE,,,en,1.0
 Twenty years,Twenty years,DATE,,,en,1.0
-at least 250,at least 250,CARDINAL,,,en,1.0
+around 400,around 400,CARDINAL,,,en,1.0
 more than a quarter,more than a quarter,DATE,,,en,1.0
 One Day,One Day,DATE,,,en,1.0
 September 27,September 27,DATE,,,en,1.0
@@ -1873,8 +1873,8 @@ the early evening,the early evening,TIME,,,en,1.0
 wet weekend,wet weekend,DATE,,,en,1.0
 the National Hurricane...,the National Hurricane...,EVENT,,,en,1.0
 Grand Trunk Road,Grand Trunk Road,FAC,,,en,1.0
-30-acre,30-acre,CARDINAL,,,en,1.0
 the next 30 days,the next 30 days,DATE,,,en,1.0
+30-acre,30-acre,CARDINAL,,,en,1.0
 more than 540,more than 540,CARDINAL,,,en,1.0
 +10440 chars,+10440 chars,WORK_OF_ART,,,en,1.0
 October 4-7,October 4-7,DATE,,,en,1.0
@@ -4103,14 +4103,14 @@ the last 15 minutes,the last 15 minutes,TIME,,,en,1.0
 +6925 chars,+6925 chars,WORK_OF_ART,,,en,1.0
 at least 106,at least 106,CARDINAL,,,en,1.0
 15 minutes,15 minutes,TIME,,,en,1.0
-the Water Crises,the Water Crises,EVENT,,,en,1.0
+the morning of June 29th,the morning of June 29th,TIME,,,en,1.0
 the mid-90s,the mid-90s,DATE,,,en,1.0
 Nine months ago,Nine months ago,DATE,,,en,1.0
 Pulitzer Prize,Pulitzer Prize,WORK_OF_ART,,,en,1.0
-3:30 a.m.,3:30 a.m.,TIME,,,en,1.0
 Earlier in the year,Earlier in the year,DATE,,,en,1.0
 "Aug. 9, 2022","Aug. 9, 2022",DATE,,,en,1.0
-the morning of June 29th,the morning of June 29th,TIME,,,en,1.0
+the Water Crises,the Water Crises,EVENT,,,en,1.0
+3:30 a.m.,3:30 a.m.,TIME,,,en,1.0
 More than 130,More than 130,CARDINAL,,,en,1.0
 46%,46%,PERCENT,,,en,1.0
 7/11,7/11,CARDINAL,,,en,1.0
@@ -4875,13 +4875,13 @@ At least 110,At least 110,CARDINAL,,,en,1.0
 around 50,around 50,CARDINAL,,,en,1.0
 May 30,May 30,DATE,,,en,1.0
 +2328 chars,+2328 chars,WORK_OF_ART,,,en,1.0
-at least 111,at least 111,CARDINAL,,,en,1.0
-earlier in the week,earlier in the week,DATE,,,en,1.0
-more than 50,more than 50,CARDINAL,,,en,1.0
-mar,mar,DATE,,,en,1.0
 At least 88,At least 88,CARDINAL,,,en,1.0
 88,88,CARDINAL,,,en,1.0
 up to 88,up to 88,CARDINAL,,,en,1.0
+more than 50,more than 50,CARDINAL,,,en,1.0
+at least 111,at least 111,CARDINAL,,,en,1.0
+earlier in the week,earlier in the week,DATE,,,en,1.0
+mar,mar,DATE,,,en,1.0
 at least 36,at least 36,CARDINAL,,,en,1.0
 2025-05-30,2025-05-30,DATE,,,en,1.0
 at least 88,at least 88,CARDINAL,,,en,1.0
