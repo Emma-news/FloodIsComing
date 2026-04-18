@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1142715318869637
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1140604173924994
 'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.1138755663505706
+'flooding victims',en,Impacts,#a89216,#87830f,3,0.11357355648839923
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1096569450775615
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.1040996578309766
 'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.1029207306634515
-'flooding victims',en,Impacts,#a89216,#87830f,3,0.1019583787909061
-'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.09913395296643289
+'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0991339529664328
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.09551230576249
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0937132923311931
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.0919601319213649
