@@ -22,12 +22,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0884296885365465
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0882324461968027
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0868542706310394
-'flooding death',en,Impacts,#a89216,#87830f,3,0.08500553017667685
+'flooding death',en,Impacts,#a89216,#87830f,3,0.0850055301766768
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0772171359423739
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0763016137876851
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.0668603734817108
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0622463548825555
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0531134123364533
-'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0492617245599821
 'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.0487380727200478
+'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.04307260087598478
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.0284160498863785
