@@ -21,11 +21,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.0906926189097666
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0882324461968027
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0847700652560645
-'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.08341635213316016
+'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.0834163521331601
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0826822056501752
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0772171359423739
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0763016137876851
-'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0622463548825555
+'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.061952200741081265
 'tidal surge',en,Hazard,#4287f5,#3b4a63,1,0.0568316924594541
 'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.0430775268120406
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0391845341630875
