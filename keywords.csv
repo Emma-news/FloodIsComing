@@ -25,9 +25,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0826822056501752
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0772171359423739
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0648563717195323
-'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.06397491199355539
+'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0639749119935553
 'tidal surge',en,Hazard,#4287f5,#3b4a63,1,0.0568316924594541
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0391845341630875
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.0356209800429084
-'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.0350089016216993
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0338952743828988
+'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.031857776378444405
