@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1448091886916907
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1355629541255963
-'floods',en,Hazard,#4287f5,#638ed4,3,0.1222933649106241
+'floods',en,Hazard,#4287f5,#638ed4,3,0.1344640901740305
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1086641301189809
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1080282056150218
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1074895019061796
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.0834163521331601
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0826822056501752
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0772171359423739
-'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.07546622890735477
+'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.0754662289073547
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0648563717195323
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0639749119935553
 'tidal surge',en,Hazard,#4287f5,#3b4a63,1,0.0568316924594541
