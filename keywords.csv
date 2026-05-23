@@ -21,13 +21,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0883732168312912
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0882324461968027
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.0834163521331601
-'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.0833098222439468
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0826822056501752
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0772171359423739
+'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.07546622890735477
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0648563717195323
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0639749119935553
 'tidal surge',en,Hazard,#4287f5,#3b4a63,1,0.0568316924594541
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0336068840386243
-'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.03207801303647214
+'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.0320780130364721
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0304611782254639
 'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.0293293349216777
