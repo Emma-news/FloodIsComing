@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1448091886916907
+'flooding storm',en,Causes,#679e2c,#61b00c,3,0.13622283856975528
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1355629541255963
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1344640901740305
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1086641301189809
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0882324461968027
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.0834163521331601
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0825047620753761
-'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.08137188684397878
+'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.0813718868439787
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0772171359423739
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0648563717195323
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0639749119935553
