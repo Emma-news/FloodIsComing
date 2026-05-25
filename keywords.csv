@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1139161283601772
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1080282056150218
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1061004046889097
-'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.1056013374803028
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1046567311339569
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1030943919667714
-'flooding residents',en,Impacts,#a89216,#87830f,3,0.10146142329344146
+'flooding residents',en,Impacts,#a89216,#87830f,3,0.1014614232934414
+'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.10059889185825738
 'flooding victims',en,Impacts,#a89216,#87830f,2,0.0965384230151393
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.0963237266202526
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.09551230576249
