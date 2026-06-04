@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0963258947727685
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.0953252462039612
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.0950879595080901
+'flooding victims',en,Impacts,#a89216,#87830f,3,0.09487502310424459
 'deluge rain',en,Hazard,#4287f5,#315fa8,2,0.0939020632667528
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0937132923311931
-'flooding victims',en,Impacts,#a89216,#87830f,2,0.09248366456286841
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.0922878580817601
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.0906926189097666
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0906599212809259
