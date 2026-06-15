@@ -20,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.0834163521331601
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.0829543874366163
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.0828271883414687
-'flooding death',en,Impacts,#a89216,#87830f,3,0.0825047620753761
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.0801286947602584
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0799011440740166
-'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.07687690564800041
+'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.0768769056480004
+'flooding death',en,Impacts,#a89216,#87830f,3,0.07613158276406969
 'tidal surge',en,Hazard,#4287f5,#3b4a63,1,0.0687186870520744
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0648563717195323
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0639749119935553
