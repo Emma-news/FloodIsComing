@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'tidal surge',en,Hazard,#4287f5,#3b4a63,1,0.0687186870520744
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0648563717195323
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0639749119935553
+'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.04191824129593438
 'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.027180159683426
-'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.025391084717906
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0225467862079309
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.0199566428595443
