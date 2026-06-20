@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1482128061911411
-'flooding storm',en,Causes,#679e2c,#61b00c,3,0.12731973735862323
+'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1273197373586232
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1260412507416043
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1172914489394356
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1078463477607936
@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'tidal surge',en,Hazard,#4287f5,#3b4a63,1,0.0687186870520744
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0648563717195323
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0639749119935553
-'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0419182412959343
+'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.03668061010154416
 'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.027180159683426
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0225467862079309
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.0199566428595443
