@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1217066049462761
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1194039760495596
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1187601355877675
-'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.11145366690176903
+'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.10471031251166493
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0983959709241951
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.0983674832526155
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0937132923311931
