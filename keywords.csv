@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1792258389698538
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1620459592003122
-'flooding residents',en,Impacts,#a89216,#87830f,3,0.15728952824501172
+'flooding residents',en,Impacts,#a89216,#87830f,3,0.1572895282450117
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1467455008650296
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1390212687914357
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1267568672129188
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0761315827640696
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0756360241044626
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0684088265601481
-'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.0655184830862955
+'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.06049485062335117
 'tidal surge',en,Hazard,#4287f5,#3b4a63,1,0.0539110226077594
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0401074470322577
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0247149482767412
