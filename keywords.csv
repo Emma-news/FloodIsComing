@@ -19,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.0898752005818765
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0886689071911915
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0884919635116847
+'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.08592991595532384
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.0828271883414687
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.0817587444819607
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.0812651802745364
-'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.08075784879125322
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.079541374977419
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0761315827640696
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,1,0.0602856718709474
