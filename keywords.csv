@@ -22,12 +22,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding protection',en,Adaptation,#9e32e5,#d641e8,3,0.0859299159553238
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.0828271883414687
 'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.0812651802745364
-'flooding area',en,Hazard,#4287f5,#315fa8,3,0.07959869495252374
+'flooding area',en,Hazard,#4287f5,#315fa8,3,0.0795986949525237
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.079541374977419
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0761315827640696
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,1,0.0602856718709474
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.0489747142165954
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0453824184987508
 'flooding prayer',en,Hazard,#4287f5,#3b4a63,1,0.0301613709101355
-'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.0263911939916295
+'flood World Weather Attribution',en,Causes,#679e2c,#61d01c,1,0.025132799892885076
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0249958597913366
