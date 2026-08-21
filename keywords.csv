@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'flooding weather',en,Causes,#679e2c,#61d01c,3,0.2109196701229963
+'flooding weather',en,Causes,#679e2c,#61d01c,3,0.2062228654741121
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1683841436803623
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1536153394649479
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1478372574080674
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.0967479353211772
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0962639382657394
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0928913277039357
-'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.09005368236448333
+'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.0900536823644833
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.0898752005818765
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0886689071911915
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0884919635116847
