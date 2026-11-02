@@ -760,11 +760,11 @@ OpenAI,OpenAI,ORG,-0.23426573426573427,0.9114219114219115,en,1.3
 MAGA,MAGA,ORG,-0.22123709623709617,2.312323360400283,en,1.3
 The Kaduna State Government,The Kaduna State Government,ORG,0.2564102564102564,0.17094017094017092,en,1.3
 Border Patrol,Border Patrol,ORG,0.2692307692307692,0.6153846153846154,en,1.3
-Chinese Communist Party,Chinese Communist Party,ORG,0.038766788766788754,0.22357404500261646,en,1.3
+Chinese Communist Party,Chinese Communist Party,ORG,0.038766788766788754,0.042735042735042736,en,1.3
 ACI Prensa Staff,ACI Prensa Staff,ORG,0.0,0.07692307692307693,en,1.3
 Crypto Briefing,Crypto Briefing,ORG,0.3846153846153846,0.2564102564102564,en,1.3
 Fox News,Fox News,ORG,0.0,0.0,en,1.3
-Shark Tank,Shark Tank,ORG,0.038766788766788754,0.22357404500261646,en,1.3
+Shark Tank,Shark Tank,ORG,0.038766788766788754,0.042735042735042736,en,1.3
 NurPhoto,NurPhoto,ORG,0.038461538461538464,0.0,en,1.3
 the Nigerian Meteorological Agency,the Nigerian Meteorological Agency,ORG,0.2564102564102564,0.17094017094017092,en,1.3
 Ministry of Agriculture and Irrigation,Ministry of Agriculture and Irrigation,ORG,0.0,0.7692307692307692,en,1.3
@@ -1210,11 +1210,11 @@ Rescue Station,Rescue Station,ORG,0.0,0.0,en,1.0
 N.L.,N.L.,ORG,-0.15000000000000002,0.0,en,1.0
 Washington State Route 410,Washington State Route 410,ORG,-0.1,0.0,en,1.0
 Home Depot,Home Depot,ORG,0.0625,0.0,en,1.0
+"Patankar, A.","Patankar, A.",ORG,0.0,0.0,en,1.0
 "Bloch, R. &amp","Bloch, R. &amp",ORG,0.0,0.0,en,1.0
-World Bank Publications,World Bank Publications,ORG,0.0,0.0,en,1.0
 KUALA LUMPUR: Continuous heavy,KUALA LUMPUR: Continuous heavy,ORG,0.07499999999999998,0.0,en,1.0
 FOX 5/KUSI,FOX 5/KUSI,ORG,-0.02857142857142859,0.0,en,1.0
-"Patankar, A.","Patankar, A.",ORG,0.0,0.0,en,1.0
+World Bank Publications,World Bank Publications,ORG,0.0,0.0,en,1.0
 Washington Post,Washington Post,ORG,0.06410256410256411,0.0,en,1.0
 the UN International Organization,the UN International Organization,ORG,-0.1,0.0,en,1.0
 Pacific Northwest Braces,Pacific Northwest Braces,ORG,0.5,0.0,en,1.0
@@ -2871,8 +2871,8 @@ TALLMADGE,TALLMADGE,ORG,0.5,0.0,en,1.0
 UEFA Nations League,UEFA Nations League,ORG,0.35714285714285715,0.0,en,1.0
 Turning Data into,Turning Data into,ORG,0.0,0.0,en,1.0
 Open Data,Open Data,ORG,0.05,0.0,en,1.0
-PETALING JAYA:,PETALING JAYA:,ORG,0.35,0.0,en,1.0
 the Fire and Rescue Department,the Fire and Rescue Department,ORG,0.24325,0.44799999999999995,en,1.0
+PETALING JAYA:,PETALING JAYA:,ORG,0.35,0.0,en,1.0
 KULAI,KULAI,ORG,0.0,0.0,en,1.0
 ProstaVive Complaints & Side Effects (,ProstaVive Complaints & Side Effects (,ORG,0.0,0.0,en,1.0
 ProstaVive,ProstaVive,ORG,0.23909090909090908,0.5727272727272728,en,1.0
@@ -3523,7 +3523,7 @@ Georgia Jones,Georgia Jones,ORG,-0.16999999999999998,0.0,en,1.0
 MechaHitler,MechaHitler,ORG,0.35,0.0,en,1.0
 U.S. Army,U.S. Army,ORG,0.0,0.0,en,1.0
 Sinclair Cares:,Sinclair Cares:,ORG,-1.0,0.0,en,1.0
-Kansas City Chiefs,Kansas City Chiefs,ORG,0.0,0.0,en,1.0
+Gray Media,Gray Media,ORG,-0.42857142857142855,0.6071428571428571,en,1.0
 The Salvation Army,The Salvation Army,ORG,-1.0,0.0,en,1.0
 Noem,Noem,ORG,0.08560606060606055,2.3709090909090906,en,1.0
 The Daily Signa…,The Daily Signa…,ORG,-0.05,0.0,en,1.0
@@ -3713,8 +3713,8 @@ KSAT,KSAT,ORG,0.06666666666666667,0.0,en,1.0
 Texas Camp,Texas Camp,ORG,-0.13999999999999999,0.0,en,1.0
 The Department of Government Efficiency,The Department of Government Efficiency,ORG,0.0,0.0,en,1.0
 Alligator Alcatraz,Alligator Alcatraz,ORG,-0.35,0.0,en,1.0
-Atlanta Falcons,Atlanta Falcons,ORG,0.0,0.0,en,1.0
-Minnesota Vikings,Minnesota Vikings,ORG,0.0,0.0,en,1.0
+Gray Media Stations,Gray Media Stations,ORG,0.17857142857142858,0.0,en,1.0
+Gray,Gray,ORG,-0.21428571428571427,0.0,en,1.0
 James Cook University's,James Cook University's,ORG,0.0,0.0,en,1.0
 Floodwater Safety,Floodwater Safety,ORG,-0.7142857142857143,0.0,en,1.0
 Spanish Catastrophe Insurance Is World-Leading,Spanish Catastrophe Insurance Is World-Leading,ORG,0.0,0.0,en,1.0
@@ -3742,7 +3742,7 @@ Trump White House,Trump White House,ORG,0.0,0.0,en,1.0
 D-MD,D-MD,ORG,-0.17857142857142858,0.0,en,1.0
 FEM,FEM,ORG,0.0,0.0,en,1.0
 Contextualizing,Contextualizing,ORG,0.0,0.0,en,1.0
-The National Football League,The National Football League,ORG,-0.16666666666666666,0.0,en,1.0
+Atlanta Falcons,Atlanta Falcons,ORG,0.0,0.0,en,1.0
 Gulmi District Faces,Gulmi District Faces,ORG,0.13,0.0,en,1.0
 Ellyn Lapointe/Gizmodo,Ellyn Lapointe/Gizmodo,ORG,0.0,0.0,en,1.0
 Subway,Subway,ORG,0.0,0.0,en,1.0
@@ -3853,10 +3853,10 @@ The Guadalupe River,The Guadalupe River,ORG,-0.2106060606060606,0.0,en,1.0
 Brace,Brace,ORG,0.15,0.0,en,1.0
 Texas Floods …,Texas Floods …,ORG,-0.16,0.0,en,1.0
 CALEIGH,CALEIGH,ORG,-0.5,0.0,en,1.0
+Kansas City Chiefs,Kansas City Chiefs,ORG,0.0,0.0,en,1.0
+Minnesota Vikings,Minnesota Vikings,ORG,0.0,0.0,en,1.0
+The National Football League,The National Football League,ORG,-0.16666666666666666,0.0,en,1.0
 The National Football League,The National Football League,ORG,-0.16666666666666666,0.0,en,1.0
-Gray Media Stations,Gray Media Stations,ORG,0.17857142857142858,0.0,en,1.0
-Gray Media,Gray Media,ORG,-0.42857142857142855,0.6071428571428571,en,1.0
-Gray,Gray,ORG,-0.21428571428571427,0.0,en,1.0
 The Mises Institute,The Mises Institute,ORG,-0.041666666666666664,0.0,en,1.0
 NBC 5,NBC 5,ORG,0.0,0.0,en,1.0
 Integrated Public Alert & Warning System,Integrated Public Alert & Warning System,ORG,0.0,0.0,en,1.0
